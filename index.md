@@ -4,15 +4,13 @@ layout: home
 
 hero:
   name: "My Architect Tutorials"
-  text: "A VitePress Site"
-  tagline: My great project tagline
   actions:
     - theme: brand
       text: 开始学习
-      link: /docs/Part1-了解软考相关内容
+      link: /src/Part1-了解软考相关内容
     - theme: alt
       text: 真题解析
-      link: /docs/analysis/2025上半年
+      link: /src/analysis/2025上半年
 
 head:
   - - link
