@@ -7,7 +7,6 @@ const customElements = ["mjx-container"];
 export default defineConfig({
   title: "My Architect Tutorials",
   description: "",
-  outDir: "dist",
   base: "/MyArchitectTutorials",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
