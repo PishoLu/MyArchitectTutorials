@@ -78,7 +78,7 @@ export default withMermaid({
             link: "/src/Part21-AI完善项目框架与技术.md",
           },
           {
-            text: "Part22-论软件可靠性2.md",
+            text: "Part22-论软件可靠性.md",
             link: "/src/Part22-论软件可靠性2.md",
           },
           {
