@@ -114,22 +114,18 @@ export default withMermaid({
             link: "/src/Part30-RAG 技术的核心原理.md",
           },
           {
-            text: "Part31-云原生微服务架构下网关的核心功能.md",
-            link: "/src/Part31-云原生微服务架构下网关的核心功能.md",
-          },
-          {
-            text: "Part32-缓存技术的核心类型.md",
+            text: "Part31-缓存技术的核心类型.md",
             link: "/src/Part32-缓存技术的核心类型.md",
           },
           {
-            text: "Part33-DevOps开发-运维一体化.md",
+            text: "Part32-DevOps开发-运维一体化.md",
             link: "/src/Part33-DevOps开发-运维一体化.md",
           },
           {
-            text: "Part34-AI 应用测试方法.md",
+            text: "Part33-AI 应用测试方法.md",
             link: "/src/Part34-AI 应用测试方法.md",
           },
-          { text: "Part35-AI训练理论.md", link: "/src/Part35-AI训练理论.md" },
+          { text: "Part34-AI训练理论.md", link: "/src/Part35-AI训练理论.md" },
         ],
       },
       {
